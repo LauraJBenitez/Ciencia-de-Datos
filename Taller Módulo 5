@@ -1,0 +1,4 @@
+git remote add origin https://github.com/LauraJBenitez/Ciencia-de-Datos.git
+git branch -M main
+git push -u origin main
+                
